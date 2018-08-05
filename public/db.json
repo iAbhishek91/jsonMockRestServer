@@ -1,0 +1,49 @@
+{
+  "employee" : [
+    {
+      "id": 1,
+      "firstName": "Derek",
+      "lastName": "D'souza",
+      "age": 32,
+      "employerId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "George",
+      "lastName": "Verney",
+      "age": 60,
+      "employerId": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Stephen",
+      "lastName": "Barber",
+      "age": 55,
+      "employerId": 3
+    },
+    {
+      "id": 4,
+      "firstName": "Robert",
+      "lastName": "Keyes",
+      "age":35,
+      "employerId": 1
+    }
+  ],
+  "employer" : [
+    {
+      "id": 1,
+      "name": "Royel Dutch Shell",
+      "description": "Falls under ENU domain. Mostly deals with upstreama and downsteam business of oil and shipping."
+    },
+    {
+      "id": 2,
+      "name": "Lloyds Banking plc",
+      "description": "Falls under banking domain. Mostly deals with banking in UK and other banking services."
+    },
+    {
+      "id": 3,
+      "name": "Argos",
+      "description": "Falls under Retail domain. Mostly deals with marketing and distribution of processed and un-processed food."
+    }
+  ]
+}
